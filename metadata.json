@@ -1,0 +1,6 @@
+{
+  "name": "ChemBalance Studio",
+  "description": "Interactive tutorial and practice platform for high school chemistry students to master chemical equation balancing using particle diagrams, atom count tables, and adaptive difficulty challenges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
